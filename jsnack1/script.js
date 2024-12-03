@@ -1,2 +1,3 @@
-const numbers = prompt(firstNumb, secondNumb)
-console.log(Math.max(numbers));
+const numb1 = prompt("inserisci numero")
+const numb2 = prompt("inserisci numero")
+console.log(Math.max(numb1, numb2));
