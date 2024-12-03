@@ -1,2 +1,2 @@
-const numbers = prompt(2, 10)
+const numbers = prompt(firstNumb, secondNumb)
 console.log(Math.max(numbers));
